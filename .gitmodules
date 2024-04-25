@@ -1,0 +1,8 @@
+[submodule "xdr/curr"]
+	path = xdr/curr
+	url = https://github.com/shantanu-hashcash/hcnet-xdr.git
+	branch = curr
+[submodule "xdr/next"]
+	path = xdr/next
+	url = https://github.com/shantanu-hashcash/hcnet-xdr.git
+	branch = next
