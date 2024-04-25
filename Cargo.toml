@@ -5,7 +5,7 @@ homepage = "https://github.com/shantanu-hashcash/rs-hcnet-xdr"
 repository = "https://github.com/shantanu-hashcash/rs-hcnet-xdr"
 authors = ["Hcnet Development Foundation <info@hcnet.org>"]
 license = "Apache-2.0"
-version = "20.0.2"
+version = "20.0.22"
 edition = "2021"
 rust-version = "1.74"
 
