@@ -241,7 +241,7 @@ dependencies = [
 
 [[package]]
 name = "hcnet-xdr"
-version = "20.0.2"
+version = "20.0.22"
 dependencies = [
  "arbitrary",
  "base64 0.13.1",
